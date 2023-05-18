@@ -52,6 +52,16 @@ Feel free to fork this repository and enhance the code. Any contributions you ma
 
 **Disclaimer:** Please note that the Bionic Reading technique might not be suitable for all types of reading materials or for all readers. Always consider your audience and the nature of the text before applying this technique.
 
+# DISCLAIMER
 
-[[python-bionic]]
+This project is intended strictly for educational and personal testing purposes. It is not affiliated with, endorsed by, or connected to Bionic Reading® or any other third-party. This project does not use any of Bionic Reading®'s proprietary software, APIs, or copyrighted material.
+
+The code in this repository takes an epub file as input and applies formatting to certain characters of each word in the epub file. The purpose of this modification is to experiment with different reading techniques and to observe their impact on readability and comprehension.
+
+## Usage of this Code
+
+This code is provided for personal, non-commercial use only. By using this code, you agree to use it in a manner that complies with all applicable laws, including, but not limited to, copyright and trademark laws.
+
+If you believe any content in this repository infringes your legal rights, please contact the repository owner with detailed information.
+
 
