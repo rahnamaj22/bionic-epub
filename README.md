@@ -50,8 +50,6 @@ Feel free to fork this repository and enhance the code. Any contributions you ma
 
 ---
 
-**Disclaimer:** Please note that the Bionic Reading technique might not be suitable for all types of reading materials or for all readers. Always consider your audience and the nature of the text before applying this technique.
-
 # DISCLAIMER
 
 This project is intended strictly for educational and personal testing purposes. It is not affiliated with, endorsed by, or connected to Bionic Reading® or any other third-party. This project does not use any of Bionic Reading®'s proprietary software, APIs, or copyrighted material.
